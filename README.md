@@ -16,6 +16,9 @@
 1. エンジニア .. 30人前後
 2. ビジネス .. 20人前後
 
+<details>
+  <summary>詳細</summary>
+
 ### 業務
 
 #### 自社サービス「Sphere」の保守
@@ -137,6 +140,8 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
   - PlayFramework
 - 構成
   - レスポンシブ
+  
+</details>
 
 ## 株式会社GEEK
 
@@ -171,6 +176,15 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
 バックエンドエンジニア .. 1名
 デザイナー .. 1名
 
+<details>
+  <summary>累計</summary>
+ 
+*フロントエンドエンジニア* .. 11名
+バックエンドエンジニア .. 5名
+デザイナー .. 1名
+
+</details>
+
 ##### 作業
 
 - パッケージの更新
@@ -191,21 +205,17 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
     - PHP
     - Mysql
 - JavaScript
+  - Yarn@^1
   - Babel
     - preset-env
     - preset-react
     - flow
-  - Yarn@^1.3.0
-  - Webpack@^3.0.0
-  - WebpackDevServer
-  - Gulp
-  - Prettier
-  - Eslint
-  - React@^15.0.0
-  - ReactRouter@^"^2.8.0
-  - ReactDnD@^2.1.0
-  - [Flux](https://github.com/facebook/flux)
-  - [Immutable](https://facebook.github.io/immutable-js/)
+  - Webpack@^3,WebpackDevServer,Gulp
+  - Prettier,Eslint
+  - React@^15.0.0,ReactRouter@^2.8.0
+    - ReactDnD@^2.1.0
+    - [Flux](https://github.com/facebook/flux)
+    - [Immutable](https://facebook.github.io/immutable-js/)
   - Lodash@^4.17.0
   - ...etc
 - CSS
