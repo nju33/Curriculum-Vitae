@@ -278,6 +278,37 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
   - レスポンシブ
   - シームレスなデータ保存
   
+#### 自社サイトリニューアル
+
+##### 期間
+
+2018.02 ~ 2018.03
+
+##### 作業者
+
+1. **フルスタックフロントエンジニア** .. 1名
+2. デザイナー .. 1名
+
+##### 技術
+
+- Frontend
+  - Webpack@4
+  - TypeScript@2.9
+  - React@1.16,ReactDom,ReactRouterDom,Resub
+  - StyledComponents
+  - SSR
+  - Storybook
+  - Jest
+  - Tslint
+- Backend
+  - NestJS,Express
+- Server
+  - Nginx
+  - Https
+  - EC2
+- _
+  - ci deploy
+  
 #### 輸送ログ管理システム開発
 
 誰が、どこに、どのトラックを使って、どの荷物を運んだのかを管理する。
