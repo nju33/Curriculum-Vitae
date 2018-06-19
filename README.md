@@ -172,16 +172,16 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
 
 ##### 作業者
 
-*フロントエンドエンジニア* .. 2名
-バックエンドエンジニア .. 1名
-デザイナー .. 1名
+1. *フロントエンドエンジニア* .. 2名
+2. バックエンドエンジニア .. 1名
+3. デザイナー .. 1名
 
 <details>
   <summary>累計</summary>
  
-*フロントエンドエンジニア* .. 11名
-バックエンドエンジニア .. 5名
-デザイナー .. 1名
+1. *フロントエンドエンジニア* .. 11名
+2. バックエンドエンジニア .. 5名
+3. デザイナー .. 1名
 
 </details>
 
@@ -246,9 +246,9 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
 
 ##### 作業者
 
-*フロントエンドエンジニア* .. 2名
-バックエンドエンジニア .. 2名
-デザイナー .. 1名
+1. *フロントエンドエンジニア* .. 2名
+2. バックエンドエンジニア .. 2名
+3. デザイナー .. 1名
 
 ##### 技術
 
@@ -261,13 +261,7 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
     - BabiliPlugin
   - Gulp
   - TypeScript
-  - React
-    - ReactDevtools
-  - ReactDom
-  - ReactRouterDom
-  - Redux
-    - ReduxDevtools
-  - [ReduxObservable](https://github.com/redux-observable/redux-observable)
+  - React,ReactDom,ReactRouterDom,Redux,[ReduxObservable](https://github.com/redux-observable/redux-observable)
   - RxJS
   - FetchAPI
   - Storybook
@@ -311,8 +305,8 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
 
 ##### 作業者
 
-*フルスタックフロントエンジニア* .. 1名
-デザイナー .. 1名
+1. *フルスタックフロントエンジニア* .. 1名
+2. デザイナー .. 1名
 
 ##### 技術
 
@@ -321,6 +315,7 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
   - TypeScript@2.9
   - React@1.16,ReactDom,ReactRouterDom,Resub
   - StyledComponents
+  - SSR
   - Storybook
   - Jest
   - Tslint
@@ -329,4 +324,10 @@ https://web.archive.org/web/20170824080256/https://www.mvrck.co.jp/
   - NestJS,Express
   - Typeorm
   - PostgreSql
-  
+- Server
+  - Nginx
+  - Https
+  - EC2
+- _
+  - ci deploy
+
